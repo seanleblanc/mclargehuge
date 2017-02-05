@@ -1,0 +1,7 @@
+package mclargehuge
+
+class Person1 {
+
+    static constraints = {
+    }
+}

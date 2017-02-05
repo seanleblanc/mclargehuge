@@ -1,0 +1,7 @@
+package mclargehuge
+
+class Book1 {
+
+    static constraints = {
+    }
+}
